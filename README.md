@@ -1,2 +1,4 @@
 # MLHoliday
-Magnetic Letters - Holiday Management App
+"Magnetic Letters - Holiday Management App"
++
+Fresh Laravel Install
